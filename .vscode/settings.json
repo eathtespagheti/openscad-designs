@@ -1,0 +1,6 @@
+{
+    "[OpenSCAD]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "svn.ignoreMissingSvnWarning": true
+}
